@@ -29,14 +29,6 @@ Then, go to the math_master root where you can see the docker-compose.yaml and j
 
 docker-compose up
 
-After that, if everything goes right with the code you will see that it will build and then start the execution, wait until LOGSTASH
-says that it is completely started
-
-After that, go to http://0.0.0.0:5601 and with elastic username and changeme password, log into elasticsearch, go to Kibana and set logstash-* as a data-source!
-
-Then, just test the requests as you like:
-
-oberto@roberto-mac math_ma
 
 After that, if everything goes right with the code you will see that it will build and then start the execution, wait until LOGSTASH
 says that it is completely started
